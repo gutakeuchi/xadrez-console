@@ -17,7 +17,6 @@ namespace xadrez_console
                     else
                     {
                         Console.Write("- ");
-
                     }
                 }
                 Console.WriteLine();
